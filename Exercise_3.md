@@ -6,6 +6,7 @@
 
 ## Post Lab Problem
 -----------
+> Set limit and x value before you begin 
  1. [Problem 1 Find the value of exponential series](https://github.com/rajasekaranap/PythonLab/blob/master/images/exq.png)
  2. [Problem 2 Find the value of exponential series](https://github.com/rajasekaranap/PythonLab/blob/master/images/exp2.png)
  3. [Problem 3 Find the value of exponential series](https://github.com/rajasekaranap/PythonLab/blob/master/images/exp3.png)
