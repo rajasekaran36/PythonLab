@@ -13,4 +13,8 @@
  4. [Ramanujan Crazy Series](https://github.com/rajasekaranap/PythonLab/blob/master/images/ramanujan.png)
  
  *Fork Point* [http://cyberdojo1.kgfsl.com/review/show/D86D78ED7F?avatar=tiger&was_tag=1&now_tag=2]
+ 
+ If you fineshed everything you are qualified to do this ...
+ 
+ *Try Something New* [http://cyberdojo1.kgfsl.com/review/show/EAF1C14A90?avatar=fox&was_tag=2&now_tag=3]
 
