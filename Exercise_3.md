@@ -16,5 +16,5 @@
  
  If you fineshed everything you are qualified to do this ...
  
- *Try Something New* [http://cyberdojo1.kgfsl.com/review/show/EAF1C14A90?avatar=fox&was_tag=2&now_tag=3]
+ *Try Something New* [http://cyberdojo1.kgfsl.com/review/show/07BEA8BA57?avatar=shark&was_tag=2&now_tag=3]
 
